@@ -3,7 +3,7 @@
     padding: 0;
 }
 header{
-   background-color: #FFF9F4;
+   background-color: #77bb7e5e;
 }
 .navbar{
     padding-top: 20px;
@@ -88,16 +88,6 @@ header{
     text-align: center;
     
 }
-
-.box3 a img{
-    height: 45px;
-    width: 45px;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 80px;
-    padding-right: 10px;
-}
-
 .contact_list{
     width: 80%;
     text-align: center;
@@ -121,7 +111,29 @@ header{
     padding-bottom: 20px;
     
 }
-
+footer{
+    background-color:#77bb7e5e;
+ }
+ 
+ footer a{
+     padding: 7px 13px;
+     background-color: #157347;
+     color: #fff;
+     display: inline-block;
+     font-size: 25px;
+     margin-right: 21px;
+     margin-top: 15px;
+     text-decoration: none;
+     border-radius: 5px;
+ }
+ 
+ footer i{
+     color: #157347;
+ }
+.contact_icon{
+    float: left;
+}
+ 
 @media(max-width:576px){
     
     .direction_change{
