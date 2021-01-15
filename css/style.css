@@ -66,51 +66,6 @@ header{
     height: 100px;
     width: 100px;
 }
-
-.contact{
-    text-align: center;
-    padding-bottom: 50px;
-}
-
-.box2 h3{
-    font-size: 24px;
-    font-family: sans-serif;
-    color: #696871;
-    font-weight: 100;
-    margin: 11px 0px;
-    text-align: center;
-}
-.box2 a{
-    text-decoration: none;
-    color: #363958;
-    font-family: sans-serif;
-    font-size: 28px;
-    text-align: center;
-    
-}
-.contact_list{
-    width: 80%;
-    text-align: center;
-    margin: auto;
-    height: 150px;
-}
-.way{
-    float: left;
-    width: 25%;
-    margin-left: 6%;
-}
-.way i{
-    font-size: 32px;
-    padding-bottom: 20px;
-    color: rgba(54, 57, 88, 1);
-    padding-top: 20px;
-}
-.way h6{
-    font-size: 24px;
-    color: rgba(54, 57, 88, 1);
-    padding-bottom: 20px;
-    
-}
 footer{
     background-color:#77bb7e5e;
  }
